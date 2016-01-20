@@ -61,17 +61,17 @@ exists.
 ```bash
 $ npm run setup
 
-# > frame@0.0.0 setup /Users/jedireza/projects/frame
+# > frame@0.0.0 setup /Users/bigbassroller/projects/frame
 # > ./setup.js
 
 # Project name: (Frame)
 # MongoDB URL: (mongodb://localhost:27017/frame)
-# Root user email: jedireza@gmail.com
+# Root user email: bigbassroller@gmail.com
 # Root user password:
-# System email: (jedireza@gmail.com)
+# System email: (bigbassroller@gmail.com)
 # SMTP host: (smtp.gmail.com)
 # SMTP port: (465)
-# SMTP username: (jedireza@gmail.com)
+# SMTP username: (bigbassroller@gmail.com)
 # SMTP password:
 # Setup complete.
 ```
@@ -82,7 +82,7 @@ $ npm run setup
 ```bash
 $ npm start
 
-# > frame@0.0.0 start /Users/jedireza/projects/frame
+# > frame@0.0.0 start /Users/bigbassroller/projects/frame
 # > ./node_modules/nodemon/bin/nodemon.js -e js,md server
 
 # 20 Sep 03:47:15 - [nodemon] v1.2.1
@@ -155,7 +155,7 @@ For command line output:
 ```bash
 $ npm test
 
-# > frame@0.0.0 test /Users/jedireza/projects/frame
+# > frame@0.0.0 test /Users/bigbassroller/projects/frame
 # > ./node_modules/lab/bin/lab -c
 
 # ..................................................
@@ -176,7 +176,7 @@ With html code coverage report:
 ```bash
 $ npm run test-cover
 
-# > frame@0.0.0 test-cover /Users/jedireza/projects/frame
+# > frame@0.0.0 test-cover /Users/bigbassroller/projects/frame
 # > ./node_modules/lab/bin/lab -c -r html -o ./test/artifacts/coverage.html && open ./test/artifacts/coverage.html
 ```
 
