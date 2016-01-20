@@ -22,11 +22,11 @@ transport.
 
 | endpoint                                                                 | username | password |
 |:------------------------------------------------------------------------ |:-------- |:-------- |
-| [https://hapiframe.herokuapp.com/](https://hapiframe.herokuapp.com/docs) | root     | root     |
+| [http://107.170.208.178:8000/docs](http://107.170.208.178:8000/docs) | root     | root     |
 
 [Postman](http://www.getpostman.com/) is a great tool for testing and
 developing APIs. See the wiki for details on [how to
-login](https://github.com/jedireza/frame/wiki/How-to-login).
+login](https://github.com/bigbassroller/Angular2-Frame-Backend/wiki/How-to-login).
 
 __Note:__ The live demo has been modified so you cannot change the root user,
 the root user's linked admin role or the root admin group. This was done in
@@ -41,7 +41,7 @@ You need [Node.js](http://nodejs.org/download/) and
 We use [`bcrypt`](https://github.com/ncb000gt/node.bcrypt.js) for hashing
 secrets. If you have issues during installation related to `bcrypt` then [refer
 to this wiki
-page](https://github.com/jedireza/frame/wiki/bcrypt-Installation-Trouble).
+page](https://github.com/bigbassroller/Angular2-Frame-Backend/wiki/bcrypt-Installation-Trouble).
 
 
 ## Installation
